@@ -1,0 +1,51 @@
+Customer_ID,Age,Gender,Tenure,Contract_Type,Internet_Service,Monthly_Charges,Total_Charges,Satisfaction_Score,Customer_Support_Calls,Churn,RF_Churn_Probability,LR_Churn_Probability,Ensemble_Probability,Predicted_Churn,Risk_Category
+CUST-03944,18,Male,10,Month-to-Month,Fiber Optic,76.26,808.89,4.0,1,No,96.62,97.44,97.03,Yes,High
+CUST-03235,24,Female,1,Month-to-Month,Fiber Optic,98.44,186.69,5.0,3,No,94.24,97.88,96.06,Yes,High
+CUST-01709,40,Male,19,Month-to-Month,Fiber Optic,81.85,1495.53,2.9,3,No,92.06,99.59,95.82,Yes,High
+CUST-04790,39,Female,4,Month-to-Month,Fiber Optic,90.29,443.21,3.6,3,No,95.7,95.78,95.74,Yes,High
+CUST-03845,64,Male,51,Month-to-Month,Fiber Optic,81.54,4007.11,3.6,1,No,95.05,95.95,95.5,Yes,High
+CUST-03269,45,Male,15,Month-to-Month,Fiber Optic,117.9,1943.07,3.7,4,No,92.84,96.49,94.66,Yes,High
+CUST-03616,52,Female,21,Month-to-Month,Fiber Optic,82.29,1839.31,4.5,3,No,91.45,97.08,94.27,Yes,High
+CUST-03773,31,Male,28,Month-to-Month,Fiber Optic,90.64,2494.97,2.8,0,No,90.35,98.17,94.26,Yes,High
+CUST-05055,24,Female,24,Month-to-Month,Fiber Optic,93.33,2177.13,4.0,1,No,90.88,95.94,93.41,Yes,High
+CUST-03672,54,Female,28,Month-to-Month,Fiber Optic,80.4,2148.88,3.7,1,No,89.82,96.51,93.16,Yes,High
+CUST-02934,55,Male,8,Month-to-Month,Fiber Optic,113.91,1053.89,2.8,3,No,87.01,97.34,92.18,Yes,High
+CUST-02557,18,Male,1,Month-to-Month,Fiber Optic,95.52,178.78,4.1,1,No,85.24,98.53,91.89,Yes,High
+CUST-04412,41,Female,19,Month-to-Month,No,29.83,555.92,2.7,3,No,85.89,96.54,91.21,Yes,High
+CUST-02343,48,Female,0,Month-to-Month,Fiber Optic,76.42,77.06,4.2,2,No,95.11,86.88,91.0,Yes,High
+CUST-01816,29,Male,0,Month-to-Month,No,27.72,28.85,3.8,3,No,85.76,95.25,90.5,Yes,High
+CUST-01278,47,Female,6,Month-to-Month,DSL,52.85,337.82,3.2,4,No,83.17,97.57,90.37,Yes,High
+CUST-03795,42,Male,11,Month-to-Month,DSL,53.37,630.28,3.5,5,No,82.38,98.14,90.26,Yes,High
+CUST-02562,43,Female,15,Month-to-Month,DSL,39.15,603.18,1.9,2,No,82.54,97.6,90.07,Yes,High
+CUST-04591,33,Male,18,Month-to-Month,No,27.03,473.83,2.8,3,No,82.36,97.35,89.86,Yes,High
+CUST-02581,47,Male,3,Month-to-Month,DSL,63.48,256.9,2.4,2,No,81.6,97.28,89.44,Yes,High
+CUST-01267,40,Male,25,Month-to-Month,No,25.21,642.95,3.5,4,No,83.1,95.73,89.41,Yes,High
+CUST-03837,59,Male,0,Month-to-Month,DSL,41.13,40.53,3.5,3,No,81.36,96.54,88.95,Yes,High
+CUST-02726,42,Male,17,Month-to-Month,Fiber Optic,116.32,1934.92,3.1,1,No,84.95,92.92,88.94,Yes,High
+CUST-05248,20,Male,43,Month-to-Month,Fiber Optic,68.79,2945.34,3.4,2,No,92.0,85.52,88.76,Yes,High
+CUST-00112,41,Female,34,Month-to-Month,Fiber Optic,90.36,2874.42,3.6,3,No,87.5,89.87,88.69,Yes,High
+CUST-00091,43,Male,30,Month-to-Month,Fiber Optic,82.27,2516.91,3.6,1,No,93.35,82.89,88.12,Yes,High
+CUST-00553,58,Female,4,Month-to-Month,No,35.05,180.65,2.3,2,No,77.67,96.46,87.07,Yes,High
+CUST-03786,34,Male,37,Month-to-Month,DSL,38.86,1470.79,3.2,3,No,80.28,93.51,86.89,Yes,High
+CUST-03833,56,Female,11,Month-to-Month,Fiber Optic,76.17,898.4,4.9,0,No,83.48,89.99,86.74,Yes,High
+CUST-02026,44,Female,55,Month-to-Month,Fiber Optic,84.82,4903.36,2.6,3,No,80.8,91.54,86.17,Yes,High
+CUST-03320,74,Female,5,Month-to-Month,DSL,67.75,406.21,2.8,2,No,75.5,96.21,85.86,Yes,High
+CUST-02499,53,Female,1,Month-to-Month,Fiber Optic,87.65,182.71,4.3,0,No,76.07,95.29,85.68,Yes,High
+CUST-02395,40,Female,5,Month-to-Month,DSL,62.73,354.2,3.2,2,No,76.73,94.46,85.6,Yes,High
+CUST-05002,35,Female,52,Month-to-Month,Fiber Optic,85.82,4473.33,2.9,2,No,87.72,83.07,85.4,Yes,High
+CUST-04741,49,Male,3,Month-to-Month,DSL,25.45,105.19,3.3,1,No,78.69,91.45,85.07,Yes,High
+CUST-01738,27,Male,49,Month-to-Month,Fiber Optic,92.73,4780.84,4.2,1,No,80.21,89.8,85.0,Yes,High
+CUST-00454,49,Female,38,Month-to-Month,Fiber Optic,97.68,3661.34,5.0,2,No,78.22,91.02,84.62,Yes,High
+CUST-03180,49,Male,6,Month-to-Month,No,22.49,159.34,3.8,2,No,76.98,91.66,84.32,Yes,High
+CUST-00926,20,Male,25,Month-to-Month,DSL,60.22,1454.2,4.4,5,No,72.84,94.92,83.88,Yes,High
+CUST-03787,46,Female,61,Month-to-Month,Fiber Optic,71.23,4302.1,3.5,2,No,74.21,93.49,83.85,Yes,High
+CUST-05015,43,Male,63,Month-to-Month,Fiber Optic,93.72,6157.93,2.9,2,No,70.87,96.53,83.7,Yes,High
+CUST-02874,33,Female,23,Month-to-Month,DSL,51.87,1193.55,3.0,0,No,80.17,86.17,83.17,Yes,High
+CUST-02142,42,Female,11,Month-to-Month,No,27.8,327.98,3.6,1,No,78.27,87.29,82.78,Yes,High
+CUST-05204,52,Male,7,Month-to-Month,DSL,45.69,364.48,4.2,2,No,74.93,90.25,82.59,Yes,High
+CUST-02102,29,Female,17,Month-to-Month,No,21.57,396.91,3.5,2,No,75.2,89.69,82.45,Yes,High
+CUST-03266,69,Male,29,Month-to-Month,DSL,65.39,2035.11,2.6,2,No,71.04,93.76,82.4,Yes,High
+CUST-03184,37,Female,11,Month-to-Month,DSL,48.24,578.79,1.8,3,No,74.69,89.95,82.32,Yes,High
+CUST-04668,65,Female,24,Month-to-Month,DSL,60.11,1558.4,4.2,4,No,73.09,91.46,82.28,Yes,High
+CUST-01971,50,Female,53,Month-to-Month,Fiber Optic,90.97,4521.45,5.0,3,No,73.43,90.76,82.09,Yes,High
+CUST-04634,53,Male,42,Month-to-Month,DSL,43.35,1841.94,4.3,3,No,78.37,84.83,81.6,Yes,High
