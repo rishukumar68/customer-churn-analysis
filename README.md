@@ -211,6 +211,7 @@ sqlite3 :memory: < sql/churn_analysis.sql
 ---
 
 ## 📸 Screenshots
+![Power BI Dashboard](dashboard/dashboard_preview.png)
 
 > **Dashboard Preview**  
 > Dark-themed executive dashboard with KPI cards, 5 interactive charts, high-risk customer table, and retention strategy playbook.
