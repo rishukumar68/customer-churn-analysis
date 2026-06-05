@@ -166,6 +166,27 @@ churn-analysis/
 9. **Long-tenure loyalty** — 49+ month customers churn 31% less than new customers
 10. **Top 50 high-risk customers** — Identified with 90–97% churn probability; immediate intervention saves ~$40K/yr
 
+
+ ## 🎯 Recommended Retention Actions
+
+### 1. Convert Month-to-Month Customers
+Offer discounts and incentives to migrate customers to annual contracts, reducing churn risk significantly.
+
+### 2. Promote Auto-Pay Enrollment
+Encourage customers using Electronic Check payments to switch to automatic payment methods.
+
+### 3. Prioritize High-Risk Customers
+Focus retention campaigns on customers with churn probability greater than 90%.
+
+### 4. Improve Customer Support Experience
+Trigger proactive outreach when customers exceed three support calls.
+
+### 5. Bundle Value-Added Services
+Promote Tech Support and Security services to increase customer engagement and loyalty.
+
+### 6. Monitor Satisfaction Scores
+Create intervention programs for customers reporting satisfaction scores below 3.
+
 ---
 
 ## 📊 Dashboard Features
@@ -189,7 +210,7 @@ Open `dashboard/churn_dashboard.html` in any browser:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/churn-analysis.git
+git clone https://github.com/rishukumar68/customer-churn-analysis.git
 cd churn-analysis
 
 # 2. Install dependencies
